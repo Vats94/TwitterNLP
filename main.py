@@ -10,10 +10,10 @@ with open('package/english_stop_words.txt', 'r') as file:
 
 
 
-consumer_key= '0LM8SAYYowA7HHvWt8RGyubNP'
-consumer_secret= 'ElThpdi25eGbm8IyeafsP2OhGqmIQHXAt9CkJQM8Cxr5nylGNv'
-access_token= '1285807757472522240-lOab72n40SmgBgd28jFuePz5Ykobkn'
-access_token_secret= 'TOBoLFjIFJ8Bge8eWWn8UrbADYZ2yYREfmCgnpmLHGBMo'
+consumer_key= ''
+consumer_secret= ''
+access_token= ''
+access_token_secret= ''
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
