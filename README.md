@@ -1,4 +1,4 @@
-# TwitterNLP
+# Twitter NLP Chrome Extension for Trending Twitter Topics 
 
 Chrome Extension that detects whether or not one of the trending topics are being received as positive or negative. The extension would analyze a combination of recent and popular tweets based on the trending topic to classify as either "Positive" or "Negative" and translate that to a percentage. The extension would change the color of the topic on twitter to a shade of either red or green depending on how positive or negative the tweet itself was. 
 
